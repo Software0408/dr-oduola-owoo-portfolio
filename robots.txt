@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://badmus-babatunde-owoo.netlify.app/sitemap.xml
+Sitemap: https://dr-oduola-owoo.pages.dev/sitemap.xml
